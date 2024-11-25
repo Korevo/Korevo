@@ -1,14 +1,17 @@
 Hi 👋 My name is Andrey Korevo
 ==============================
 
-Learning as C# ASP.NET Developer
+Learning as ~~.NET Developer~~BI Analyst.
 --------------------------------
 
-I have been working for 10 years in audit company EY (Ersnt & Young), but made a decision to become an IT Developer.
+I have been working for 10 years in audit company EY (Ersnt & Young), but made a decision to become an IT Developer (.NET). But... Started work as Resource analyst in IT company Andersen.
+After almost year work in Andersen I decided to start learning in order to become BI Analyst.
+
 
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [korevo@inbox.ru](mailto:korevo@inbox.ru)
-* 🧠  I'm learning C# ASP.NET
+* 🧠  I'm learning ~~C# ASP.NET~~Python, SQL and Power BI to become BI Analyst.
+* 
 
 ### Skills
 
