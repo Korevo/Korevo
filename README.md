@@ -10,8 +10,7 @@ After almost year work in Andersen I decided to start learning in order to becom
 
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [korevo@inbox.ru](mailto:korevo@inbox.ru)
-* 🧠  I'm learning ~~C# ASP.NET~~ Python, SQL and Power BI to become BI Analyst.
-* 
+* 🧠  I'm learning ~~C# ASP.NET~~ Python, SQL and Power BI to become BI Analyst. 
 
 ### Skills
 
